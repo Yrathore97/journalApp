@@ -1,0 +1,8 @@
+package net.yashproject.journalApp.enums;
+
+public enum Sentiment {
+    HAPPY,
+    SAD,
+    ANGRY,
+    ANXIOUS;
+}
